@@ -1,0 +1,42 @@
+{
+  "active_universe": [
+    "BTC-USD",
+    "ETH-USD",
+    "SOL-USD",
+    "BNB-USD",
+    "XRP-USD",
+    "ADA-USD",
+    "LINK-USD",
+    "AVAX-USD",
+    "DOGE-USD",
+    "DOT-USD",
+    "LTC-USD",
+    "BCH-USD",
+    "TRX-USD",
+    "ATOM-USD",
+    "ETC-USD"
+  ],
+  "vol_target": 0.6,
+  "cvar_limit": 0.055,
+  "hysteresis": 0.05,
+  "order_usd": 5000.0,
+  "fee_rate": 0.001,
+  "slippage": 0.0005,
+  "tax_rate": 0.42,
+  "tax_aware": true,
+  "llm": {
+    "provider": "",
+    "model": "",
+    "api_key": "",
+    "base_url": "",
+    "verified": false
+  },
+  "exchanges": {
+    "binance_key": "",
+    "binance_secret": "",
+    "binance_verified": false,
+    "kraken_key": "",
+    "kraken_secret": "",
+    "kraken_verified": false
+  }
+}
